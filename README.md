@@ -3,6 +3,7 @@
 <p> 2:Arrays(2D) 
   --------------
 <p> 3:Strings
+  --------------
 <p>4:Hashmap
 <p>5:Linked List
 <p>6:Stack
